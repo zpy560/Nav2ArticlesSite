@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Nav2 源码与工程实践">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07110f"/>
+      <stop offset="1" stop-color="#0f2d26"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g fill="none" stroke="#14b8a6" stroke-width="2" opacity=".25">
+    <path d="M80 100h1040M80 180h1040M80 260h1040M80 340h1040M80 420h1040M80 500h1040"/>
+    <path d="M160 60v510M320 60v510M480 60v510M640 60v510M800 60v510M960 60v510"/>
+  </g>
+  <text x="100" y="250" fill="#5eead4" font-family="monospace" font-size="34">$ nav2 --explain-source</text>
+  <text x="100" y="345" fill="#f0fdfa" font-family="sans-serif" font-size="68" font-weight="700">Nav2 源码与工程实践</text>
+  <text x="100" y="420" fill="#a7f3d0" font-family="sans-serif" font-size="34">从源码、数据流到调参与落地</text>
+</svg>
